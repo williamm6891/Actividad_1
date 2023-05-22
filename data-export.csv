@@ -1,0 +1,216 @@
+# ----------------------------------------
+# Exportar informe en formato CSV
+# Cuenta: williamm6891
+# Propiedad: EcuaGen
+# ----------------------------------------
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Día N,Usuarios
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,16
+0025,0
+0026,0
+0027,1
+
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Día N,Usuarios nuevos
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,16
+0025,0
+0026,0
+0027,1
+
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Día N,Tiempo de interacción medio
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,25.75
+0025,0
+0026,0
+0027,48
+
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Día N,Total de ingresos
+
+
+# ¿De dónde proceden los nuevos usuarios?
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Primer grupo de canales predeterminado del usuario,Usuarios nuevos
+Direct,16
+Organic Search,1
+
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Grupo de canales predeterminado de la sesión,Sesiones
+Direct,27
+Organic Search,1
+
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+ID del país,Usuarios
+EC,13
+GB,1
+US,3
+
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+País,Usuarios
+Ecuador,13
+United States,3
+United Kingdom,1
+
+# ¿Cuál es la tendencia de usuarios activos?
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Día N,30 días,7 días,1 día
+0000,0,0,0
+0001,0,0,0
+0002,0,0,0
+0003,0,0,0
+0004,0,0,0
+0005,0,0,0
+0006,0,0,0
+0007,0,0,0
+0008,0,0,0
+0009,0,0,0
+0010,0,0,0
+0011,0,0,0
+0012,0,0,0
+0013,0,0,0
+0014,0,0,0
+0015,0,0,0
+0016,0,0,0
+0017,0,0,0
+0018,0,0,0
+0019,0,0,0
+0020,0,0,0
+0021,0,0,0
+0022,0,0,0
+0023,0,0,0
+0024,16,16,16
+0025,16,16,0
+0026,16,16,0
+0027,17,17,1
+
+# ¿Cómo retiene a los usuarios?
+# Fecha de inicio: 20230409
+# Fecha de finalización: 20230520
+Fecha,Semana 0,Semana 1,Semana 2,Semana 3,Semana 4,Semana 5
+9 abr - 15 abr,0,0,0,0,0,0
+16 abr - 22 abr,0,0,0,0,0,-1
+23 abr - 29 abr,0,0,0,0,-1,-1
+30 abr - 6 may,0,0,0,-1,-1,-1
+7 may - 13 may,0,0,-1,-1,-1,-1
+14 may - 20 may,16,-1,-1,-1,-1,-1
+
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Título de página y clase de pantalla,Vistas
+EcuaGen,37
+EcuaGen - Historia,9
+EcuaGen - Equipo,5
+EcuaGen - Preguntas frecuentes,2
+
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Nombre del evento,Número de eventos
+page_view,53
+scroll,39
+session_start,28
+user_engagement,18
+first_visit,17
+click,15
+
+# ¿Cuáles son sus conversiones principales?
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Nombre del evento,Conversiones
+
+
+#  
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Nombre del artículo,Artículos comprados
+
+
+# Datos sobre la actividad en sus plataformas
+# Fecha de inicio: 20230424
+# Fecha de finalización: 20230521
+Plataforma,Conversiones
